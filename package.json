@@ -9,6 +9,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@poolifier/poolifier-web-worker": "npm:@jsr/poolifier__poolifier-web-worker",
     "poolifier-web-worker": "^0.4.15"
   }
 }
