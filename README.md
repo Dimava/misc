@@ -57,9 +57,25 @@ Grid detection and correction:
 
 ![Uniform vs snapped grid](example-out/05b_grid_both.png)
 
+Projection diagnostics:
+
+![Axis projections](example-out/02_projections.png)
+
+Pitch search:
+
+![Autocorrelation and F-statistic](example-out/03_autocorr.png)
+
+Per-line displacement before and after smoothing:
+
+![Displacement plots](example-out/05c_displacement.png)
+
 Extracted pixel grid:
 
 ![Quantized pixel grid](example-out/06b_pixels_quantized.png)
+
+Palette usage:
+
+![Palette usage graph](example-out/06d_palette_usage.png)
 
 Final clean upscale:
 
