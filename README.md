@@ -49,7 +49,23 @@ The script writes all generated artifacts into `.out/`.
 
 ## Example output
 
-The checked-in `example-out/` directory contains:
+Input:
+
+![Original input](example-out/00_original.png)
+
+Grid detection and correction:
+
+![Uniform vs snapped grid](example-out/05b_grid_both.png)
+
+Extracted pixel grid:
+
+![Quantized pixel grid](example-out/06b_pixels_quantized.png)
+
+Final clean upscale:
+
+![Final upscaled result](example-out/08b_clean_upscaled_quantized.png)
+
+The checked-in `example-out/` directory also contains:
 
 - gradient and projection diagnostics
 - detected grid overlays
